@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- #### I am Vikram (aka snipperbytes) Engineer exploring and simplifying Developer Relations 🌱 
+ #### I am Vikram (aka snipperbytes) an Engineer busy exploring and simplifying Developer Relations 🌱 
  
   ↠ Always on cloud ☁
   
