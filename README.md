@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Welcome :octacat:
 
 ![vikram-sahu](https://i.imgur.com/tAXr8nC.jpg)
 
- #### I am Vikram (aka snipperbytes) an Engineer busy exploring and simplifying Developer Relations 🌱 
+ #### I am **Vikram** (aka snipperbytes) an Engineer busy exploring and simplifying _Developer Relations_ 🌱 
  
   ↠ Always on cloud ☁
   
