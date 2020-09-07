@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![vikram-sahu](https://i.imgur.com/tAXr8nC.jpg)
+
  #### I am Vikram (aka snipperbytes) an Engineer busy exploring and simplifying Developer Relations 🌱 
  
   ↠ Always on cloud ☁
