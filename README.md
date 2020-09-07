@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome :octacat:
+## Hi there! Welcome 👋
 
 ![vikram-sahu](https://i.imgur.com/tAXr8nC.jpg)
 
