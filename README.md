@@ -1,6 +1,4 @@
-## Hi there! 👋
-
-![vikram-sahu](https://i.imgur.com/tAXr8nC.jpg)
+# Hey, Hi there :dagger:
 
 💻 Software Engineer evangelizing technologies ⚝ and trying to spread knowledge 📖 around the globe 🌍.
 
@@ -28,6 +26,6 @@
 
 ➙ NoSQL ❲Redis🏮❳
 
-➙ Learning loops between javascript ‣ golang
+➙ Learning loops between javascript ‣ golang :basecamp:
 
 ➙ Hands-on experience❲ElasticSearch 🔎, MongoDB 🍃, and RabbitMQ 🐇.❳
