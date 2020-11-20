@@ -2,7 +2,7 @@
 
 I am Vikram Sahu :zap: 
 
-💻 A Software Engineer evangelizing technologies ⚝ and trying to spread knowledge 📖 around the globe 🌍.
+A Software Engineer 💻 evangelizing technologies ⚝ and trying to spread knowledge 📖 around the globe 🌍.
 
 Helping geeks to solve their problems, simplifying integration, and automating workflows ➿.
 
