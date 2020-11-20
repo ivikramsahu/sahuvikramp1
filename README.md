@@ -1,26 +1,33 @@
-## Hi there! Welcome 👋
+## Hi there! 👋
 
 ![vikram-sahu](https://i.imgur.com/tAXr8nC.jpg)
 
- #### I am **Vikram** (aka snipperbytes) an Engineer busy exploring and simplifying _Developer Relations_ 🌱 
- 
-  ↠ Always on cloud ☁
-  
-  ↠ APIs , DevOps and OpenSource.
-  
-  ↠ Currently lazy to add more ... 
+💻 Software Engineer evangelizing technologies ⚝ and trying to spread knowledge 📖 around the globe 🌍.
 
-<!--
-**snipperbytes/snipperbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Helping geeks to solve their problems, simplifying integration, and automating workflows ➿.
 
-Here are some ideas to get you started:
+## What i prefer doing ❓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➙ Developing tools ⚒ and software that help developers in integrating Pepipost by Netcore ∞.
+
+➙ Managing Pepipost's SDK & their official repository stack 📦.
+
+➙ Go to market strategy builder by collaborating with business 💰, product 🎁, and engineering ⚙.
+
+➙ Building an Open Source Email Community.
+
+➙ Speaker at Dev conferences 🎙.
+
+➙ Volunteer at Redis Mumbai Meetup ✎.
+
+## Technologies:
+
+➙ PHP 🐘, Perl 🐪, Nginx 🌐 , and Linux🐧.
+
+➙ Automation DevOps ❲Jenkins, Ansible, and Docker.❳
+
+➙ NoSQL ❲Redis🏮❳
+
+➙ Learning loops between javascript ‣ golang
+
+➙ Hands-on experience❲ElasticSearch 🔎, MongoDB 🍃, and RabbitMQ 🐇.❳
