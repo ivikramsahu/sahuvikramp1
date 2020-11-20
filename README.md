@@ -20,7 +20,7 @@
 
 ➙ Volunteer at Redis Mumbai Meetup ✎.
 
-## Technologies:
+## Technologies 🚧
 
 ➙ PHP 🐘, Perl 🐪, Nginx 🌐 , and Linux🐧.
 
