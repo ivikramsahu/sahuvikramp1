@@ -1,8 +1,10 @@
-# Hey, Hi there :dagger:
+# :balloon: Hello World ! :otter: 
 
-💻 Software Engineer evangelizing technologies ⚝ and trying to spread knowledge 📖 around the globe 🌍.
+I am Vikram Sahu :zap: 
 
-⚡ Helping geeks to solve their problems, simplifying integration, and automating workflows ➿.
+💻 A Software Engineer evangelizing technologies ⚝ and trying to spread knowledge 📖 around the globe 🌍.
+
+Helping geeks to solve their problems, simplifying integration, and automating workflows ➿.
 
 ## What i prefer doing ❓
 
