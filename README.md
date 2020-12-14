@@ -1,6 +1,6 @@
 # :balloon: Hello World ! :otter: 
 
-I am Vikram Sahu :zap: 
+I am Vikram Sahu :zap: aka snipperbytes
 
 A Software Engineer 💻 evangelizing technologies ⚝ and trying to spread knowledge 📖 around the globe 🌍.
 
