@@ -2,7 +2,7 @@ Namaste | Hola | Hello 🙏,
 
 <img align="right" height="400" width="400" alt="GIF" src="https://i.imgur.com/yHI0Wri.gif" />
 
-To briefly introduce myself, I am a Computer Science Engineering graduate with a motto of simplifying developer things by helping them with a perfect blend of code & content. 🚀
+To briefly introduce myself, I am a Computer Science Engineering graduate and unofficial Growth Hacker ⚡ with a motto of simplifying developer things by helping them with a perfect blend of code & content. 🚀
 
 My aim is to connect the dots between developers and organizations by sharing technical aspects of the product. I love ❤ to scale things not only by writing pieces of code but also by adding some growth hacking flavors of marketing. 💰
 
