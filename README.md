@@ -1,33 +1,26 @@
-# :balloon: Hello World ! :otter: 
+Namaste | Hola | Hello 🙏,
 
-I am Vikram Sahu :zap: aka snipperbytes
+<img align="right" height="400" width="400" alt="GIF" src="https://i.imgur.com/yHI0Wri.gif" />
 
-A Software Engineer 💻 evangelizing technologies ⚝ and trying to spread knowledge 📖 around the globe 🌍.
+To briefly introduce myself, I am a Computer Science Engineering graduate with a motto of simplifying developer things by helping them with a perfect blend of code & content. 🚀
 
-Helping geeks to solve their problems, simplifying integration, and automating workflows ➿.
+My aim is to connect the dots between developers and organizations by sharing technical aspects of the product. I love ❤ to scale things not only by writing pieces of code but also by adding some growth hacking flavors of marketing. 💰
 
-## What i prefer doing ❓
+I have been actively involved in developer relations roles for more than 3 years now and you can mainly found me hanging out with developers in Mobile, Web, and NoSQL (Redis) communities.
 
-➙ Developing tools ⚒ and software that help developers in integrating Pepipost by Netcore ∞.
+🚧 Some of my daily tasks at work are 🚧
 
-➙ Managing Pepipost's SDK & their official repository stack 📦.
+✔ Building go-to-market strategies.<br>
+✔ Interacting and planning developer interviews.<br>
+✔ Engineering developer platforms for tutorials and blogging.<br>
+✔ Designing Engineer's newsletter.<br>
+✔ Speaking at Developer Conference.<br>
+✔ Sometimes writing a blog.<br>
 
-➙ Go to market strategy builder by collaborating with business 💰, product 🎁, and engineering ⚙.
+Additional to the above, I am a community volunteer for Redis and a content creator for the company. I love creating demos and tutorials to simplify developer issues and efforts.
 
-➙ Building an Open Source Email Community.
+Thank you 🎈<br>
+Always happy to chat.<br>
+Drop me an email 📧 at **snipperbytes(@)gmail(.)com** ☑ <br><br>
 
-➙ Speaker at Dev conferences 🎙.
-
-➙ Volunteer at Redis Mumbai Meetup ✎.
-
-## Technologies 🚧
-
-➙ PHP 🐘, Perl 🐪, Nginx 🌐 , and Linux🐧.
-
-➙ Automation DevOps ❲Jenkins, Ansible, and Docker.❳
-
-➙ NoSQL ❲Redis🏮❳
-
-➙ Learning loops between javascript ‣ golang :basecamp:
-
-➙ Hands-on experience❲ElasticSearch 🔎, MongoDB 🍃, and RabbitMQ 🐇.❳
+![Vikram's github stats](https://github-readme-stats.vercel.app/api?username=snipperbytes&show_icons=true&hide_border=true)
