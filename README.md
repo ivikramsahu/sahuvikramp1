@@ -20,7 +20,7 @@ I have been actively involved in developer relations roles for more than 3 years
 Additional to the above, I am a community volunteer for Redis and a content creator for the company. I love creating demos and tutorials to simplify developer issues and efforts.
 
 Thank you 🎈<br>
-Always happy to chat.<br>
+Always happy to chat 🔰.<br>
 Drop me an email 📧 at **snipperbytes(@)gmail(.)com** ☑ <br><br>
 
 ![Vikram's github stats](https://github-readme-stats.vercel.app/api?username=snipperbytes&show_icons=true&hide_border=true)
