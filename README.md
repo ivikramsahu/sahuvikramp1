@@ -26,4 +26,4 @@ Thank you 🎈<br>
 Always happy to chat 🔰.<br>
 Drop me an email 📧 at **snipperbytes(@)gmail(.)com** ☑ <br><br>
 
-![Vikram's github stats](https://github-readme-stats.vercel.app/api?username=snipperbytes&show_icons=true&hide_border=true)
+![Vikram's github stats](https://github-readme-stats.vercel.app/api?username=sahuvikramp&show_icons=true&hide_border=true)
